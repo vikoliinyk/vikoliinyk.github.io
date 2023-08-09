@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
+title: Viktoriia Oliinyk # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I'm a Principal Data Scientist at QuantumBlack, London.
   <br><br>
-  Second description 
+  I have expertise in developing and deploying cutting-edge machine learning models for a wide range of industies such as banking, telco and pharmaceutical.
+  I am dedicated to creating transparent and accountable AI solutions, upholding the highest ethical standards, while driving innovation through proficiency in machine learning.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/viktoriiaoliinyk/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
