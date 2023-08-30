@@ -1,7 +1,7 @@
 ---
 title: "Why it's important to build fair and ethical ML models"
 layout: post
-date: 2023-07-23 10:10
+date: 2023-08-30 10:10
 <!-- image: /assets/images/markdown.jpg -->
 headerImage: false
 tag:
