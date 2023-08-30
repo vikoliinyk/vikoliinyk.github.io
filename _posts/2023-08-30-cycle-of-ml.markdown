@@ -1,19 +1,18 @@
 ---
 title: "Why it's important to build fair and ethical ML models"
 layout: post
-date: 2023-08-23 22:10
-tag: 
+date: 2023-07-23 10:10
+<!-- image: /assets/images/markdown.jpg -->
+headerImage: false
+tag:
 - fairness
 - responsible AI
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
-projects: true
-hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+star: false
 category: blog
 author: viktoriiaoliinyk
-externalLink: false
+description: Introduction to fair and ethical AI
 ---
+
 Our lives are not solely under our control. For ages, others made vital decisions for us, and now, machine learning (ML) often takes the lead.
 
 Within justice, defendants get scores predicting future crime risks, guiding decisions on bail, sentencing, and parole.
@@ -34,8 +33,6 @@ Algorithmic decision making carries the risk of discrimination. Given the relian
 
 <!-- ![Markdowm Image][https://imgur.com/a/L1vDFyl] -->
 ![Imgur](https://i.imgur.com/RGSKyyg.png)
- 
-
 <figcaption class="caption">Cycle of ML models</figcaption>
 
 Historically, our records often mirror society's biases, stereotypes, and unequal demographics. Analyzing such data risks perpetuating these very issues.
