@@ -13,17 +13,17 @@ layout: page
 <ul class="skill-list">
 	<li><b>Methodologies:</b> Supervised, Semi-supervised and Unsupervised Learning, Time-Series Analysis,
 LSTMs</li>
-	<li>Causal ML (Bayesian Networks)</li>
-	<li>Explainable ML (GLM, GL2M, Shap, PDP)</li>
+	<li><b>Causal ML:</b> Bayesian Networks, Counterfactual Analysis</li>
+	<li><b>Explainable ML:</b> GLMs, SHAP, PDP</li>
 	<li>Python, R, Dask</li>
-	<li>SciPy stack, XGBoost, LighGBM, Tensorflow, Keras</li>
-	<li>Matplotlib, Seaborn, Plotly, Dash,Tableau, R Shiny</li>
+	<li>SciPy stack, XGBoost, LighGBM, Keras</li>
+	<li>Matplotlib, Seaborn, Plotly, Dash, R Shiny</li>
 </ul>
 
-<h2>Selected posts</h2>
+<!-- <h2>Selected projects</h2>
 
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+</ul> -->
