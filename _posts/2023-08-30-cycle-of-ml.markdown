@@ -2,7 +2,6 @@
 title: "Why it's important to build fair and ethical ML models"
 layout: post
 date: 2023-08-30 10:10
-<!-- image: /assets/images/markdown.jpg -->
 headerImage: false
 tag:
 - fairness
@@ -13,13 +12,11 @@ author: viktoriiaoliinyk
 description: Introduction to fair and ethical AI
 ---
 
-Our lives are not solely under our control. For ages, others made vital decisions for us, and now, machine learning (ML) often takes the lead.
+For many years, others made vital decisions for us, and now, machine learning often takes the lead.
 
-Within justice, defendants get scores predicting future crime risks, guiding decisions on bail, sentencing, and parole.
-In finance, statistical tools dictate our mortgage approvals and credit ratings.
-In business, ML sifts through job applications. In education, it determines our school admissions.
+Within justice, defendants get scores predicting future crime risks, guiding decisions on bail, sentencing, and parole. In finance, statistical tools dictate our mortgage approvals and credit ratings. In business, ML sifts through job applications. In education, it determines our school admissions.
 
-Beyond the critical, ML subtly shapes our culture daily. From search engines to news feeds to ads, it molds our knowledge and views.
+Beyond the critical, ML subtly shapes our culture daily. From search engines to news feeds to ads, it shapes our knowledge and views.
 
 However, erratic or flawed decisions can stifle our ambitions and opportunities. We trust that admissions, job, and loan decisions hinge on truly pertinent factors.
 
@@ -31,7 +28,6 @@ Algorithmic decision making carries the risk of discrimination. Given the relian
 ---
 ### 1. ML cycle --- how ML predictions change the world
 
-<!-- ![Markdowm Image][https://imgur.com/a/L1vDFyl] -->
 ![Imgur](https://i.imgur.com/RGSKyyg.png)
 <figcaption class="caption">Cycle of ML models</figcaption>
 

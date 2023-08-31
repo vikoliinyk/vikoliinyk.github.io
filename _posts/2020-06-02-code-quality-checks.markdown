@@ -1,5 +1,5 @@
 ---
-title: "Basic code quality checks"
+title: "Keep your code tidy with simple pre-commit hooks"
 layout: post
 date: 2020-06-02 10:10
 <!-- image: /assets/images/markdown.jpg -->
@@ -9,26 +9,31 @@ tag:
 star: false
 category: blog
 author: viktoriiaoliinyk
-description: Introduction to fair and ethical AI
+description: Guidance on basic code quality checks for Data Scientists
 ---
 ### Objective
-Code quality checks before code check-in will enable us manage standard coding practice across the repository.
-We would be leveraging pre-commit hooks for the following code quality checks:
+Simple code quality checks allow Data Scientists to mantain good coding practice across the projects.
+Below are some pre-commit hooks which enable these checks.
 
 <ul>
-    <li>Black: Automated code formatting</li>
-    <li>Flake8: Code quality check</li>
-    <li>End-of-file-fixer: (self explanatory)</li>
-    <li>check-yaml: (self explanatory)</li>
-    <li>trailing-whitespace: (self explanatory)</li>
-    <li>mypy</li>
-    <li>Order Imports</li>
-    <li>Pre-requisities</li>
-    <li>Pre-commit requires python3.6+, hence we are migrating to python3.7 to have compatibility with Databricks Runtime 6.1</li>
+    <li><b>Black:</b> a PEP 8 compliant formatter. Refortmats entire files in place</li>
+    <li><b>Flake8:</b> verifies PEP8, pyflakes, and circular complexity of the code</li>
+    <li><b>End-of-file-fixer:</b> self-explanatory</li>
+    <li><b>check-yaml:</b> self-explanatory</li>
+    <li><b>trailing-whitespace:</b> self-explanatory</li>
+    <li><b>mypy:</b> static type checker. Esures that you're using variables and functions in your code correctly</li>
+    <li><b>Order Imports:</b> automatically sorts the Python module imports</li>
 </ul>
 
+### Pre-requisities
+Make sure you have `pre-commit` installed in your environment. Note `pre-commit` requires `python-3.6+`.
+
+```python
+$ pip install pre-commit
+```
+
 ### Setup
-Pre-commit config
+Create `.pre-commit-config.yml` file in the root of your project and add the following configuration to it:
 
 ```yml
 repos:
@@ -36,7 +41,7 @@ repos:
     rev: stable
     hooks:
     - id: black
-      language_version: python3.7
+      language_version: python3.10 # use your python version here
 -   repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v2.3.0
     hooks:
@@ -55,5 +60,10 @@ repos:
     - id: mypy
 ```
 
+### How to run it
+Once you have the pre-commit framework installed and your `.pre-commit-config.yml` file is ready, run `pre-commit install` at the source directory to set up the hooks specified in your configuration file.
+
+Post installation, pre-commit will run automatically on `git commit`. 
+Please rectify all code quality issues reported by `flake8`. Others will auto-correct your code.
 
 
