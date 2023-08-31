@@ -20,6 +20,8 @@ Below is a collection of resources to learn more about causality.
 If you have enough time on your hands, you can go directly to Judea Pearl's seminal [Causality: Models, Reasoning, and Inference](https://yzhu.io/courses/core/reading/04.causality.pdf). It's quite heavy on theory but very comprehensive. 
 For a more relaxed reading, you can check out [The Book of Why](http://bayes.cs.ucla.edu/WHY/) by Judea Pearl and Dana Mackenzie.
 
+[A nice overview](https://arxiv.org/pdf/1911.10500.pdf) which gives a bird-eye view on causality in ML, and raises some hard open questions.
+
 ### Bayesian Networks
 [DeepMind's blog on Bayesian Networks](https://www.deepmind.com/blog/causal-bayesian-networks-a-flexible-tool-to-enable-fairer-machine-learning)
 
