@@ -6,11 +6,12 @@ layout: page
 
 I'm a Data Scientist committed to building responsible AI.
 
-I've spent 5 years at QuantumBlack, AI by McKinsey, where I worked on vaious problems across different industries and geographies.
+I've spent 5 years at QuantumBlack, AI by McKinsey, where I worked on various problems across different industries and geographies.
 
-I helped a telco company improve its performance, built an AI assistant for an international space agency, and used highly explainable models to help doctors better cure chronic disease. Recently, I've been part of the Generative AI lab at QuantumBlack, where I led the development of an engine for responsible content generation for retail banking using LLMs.
+Some of my favourite projects include building an AI assistant for an international space agency and using highly explainable models to help doctors better cure a severe chronic disease. 
+Recently, I've been part of the Generative AI lab at QuantumBlack, where I led the development of an engine for responsible content generation for retail banking using LLMs.
 
-My background is in Applied Mathematics and Statics. I graduated from Higher School of Economics and Univeristé Paris-Est Marne-la-Vallée (first class honours).
+My background is in Applied Mathematics and Statics. I graduated from Higher School of Economics and Univeristé Paris-Est Marne-la-Vallée (first class honours, with distinctions).
 
 While at Higher School of Economics, I've been working with Prof. Fuad Aleskerov on problems of mathematical decision making as a Research Assistant at his International Laboratory of Decision Choice and Analysis. There I conducted multiple projects to evaluate polarisation in political bodies, such as parliaments in a data-driven way using Machine Learning techniques.
 

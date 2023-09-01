@@ -16,13 +16,13 @@ Simple code quality checks allow Data Scientists to mantain good coding practice
 Below are some pre-commit hooks which enable these checks.
 
 <ul>
-    <li><b>Black:</b> a PEP 8 compliant formatter. Refortmats entire files in place</li>
-    <li><b>Flake8:</b> verifies PEP8, pyflakes, and circular complexity of the code</li>
-    <li><b>End-of-file-fixer:</b> self-explanatory</li>
+    <li><b>black:</b> a PEP 8 compliant formatter. Refortmats entire files in place</li>
+    <li><b>flake8:</b> verifies PEP8, pyflakes, and circular complexity of the code</li>
+    <li><b>end-of-file-fixer:</b> self-explanatory</li>
     <li><b>check-yaml:</b> self-explanatory</li>
     <li><b>trailing-whitespace:</b> self-explanatory</li>
+    <li><b>reorder-python-omports:</b> automatically sorts the Python module imports</li>
     <li><b>mypy:</b> static type checker. Esures that you're using variables and functions in your code correctly</li>
-    <li><b>Order Imports:</b> automatically sorts the Python module imports</li>
 </ul>
 
 ### Pre-requisities
