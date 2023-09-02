@@ -45,3 +45,12 @@ So, how can we ensure decisions are made with integrity and for the right motive
 The answer lies in rigorous data standards: ample examples to reveal nuanced patterns; a wide variety of examples to represent diverse scenarios; well-documented examples to provide machine learning with dependable ground truth, and so forth.
 
 To maintain these standards, we should consistently review the model's decisions, ensuring fairness metrics are met—similar to how we monitor the model's overall performance over time.
+
+---
+### 3. What to read next
+- [Blog to kick off](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
+- Moritz Hardt's [talks and course](https://fairmlclass.github.io/)
+- Fairness for ML developers by Google: [article](https://developers.google.com/machine-learning/fairness-overview/)
+- [Algorithmic decision making and the cost of fairness](https://arxiv.org/abs/1701.08230) by Sa, Corbett-Davies et al.
+- Seminal [Equality of Opportunity in Supervised Learning](https://arxiv.org/abs/1610.02413) by Hardt et al. NeurIPS 2016
+- [On Fairness and Calibration](https://arxiv.org/abs/1709.02012) by Pleiss et al. NeurIPS 2017
