@@ -6,22 +6,25 @@ layout: page
 
 I'm a Data Scientist committed to building responsible AI.
 
-I've spent 5 years at QuantumBlack, AI by McKinsey, where I worked on various problems across different industries and geographies.
+I've spent the last 5 years at the London office of [QuantumBlack, AI by McKinsey](https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients), where I worked on various problems across different industries and countries.
 
 Some of my favourite projects include building an AI assistant for an international space agency and using highly explainable models to help doctors better cure a severe chronic disease. 
-Recently, I've been part of the Generative AI lab at QuantumBlack, where I led the development of an engine for responsible content generation for retail banking using LLMs.
 
-My background is in Applied Mathematics and Statics. I graduated from Higher School of Economics and Univeristé Paris-Est Marne-la-Vallée (first class honours, with distinctions).
+Recently, I've been part of the Generative AI lab at [QuantumBlack Labs](https://www.mckinsey.com/capabilities/quantumblack/labs), where I led the development of an engine for responsible content generation for retail banking using LLMs.
 
-While at Higher School of Economics, I've been working with Prof. Fuad Aleskerov on problems of mathematical decision making as a Research Assistant at his International Laboratory of Decision Choice and Analysis. There I conducted multiple projects to evaluate polarisation in political bodies, such as parliaments in a data-driven way using Machine Learning techniques.
+Before joining QuantumBlack, I interned at [Tinyclues](https://www.tinyclues.com/),a Paris-based startup that enables B2C organisations to run intelligent marketing campaigns, where I was working on improving the existing predictive framework. I developed an LSTM model with attention mechanism and focused on reducing the dimensionality of feature conjunctions using factorisation machine techniques.
 
-<h2>Skills</h2>
+<h3>Educational background</h3>
+My background is in Applied Mathematics and Computer Science. I graduated from [Higher School of Economics](https://cs.hse.ru/en/) and Univeristé Paris-Est under [Bézout Excellence track](https://labex-bezout.fr/masters-scholarships/) (first class honours, with distinction).
+
+While at Higher School of Economics, I've been working with [Prof. Fuad Aleskerov](https://www.hse.ru/en/staff/faleskerov) on problems of mathematical decision making as a Research Assistant at his [International Centre of Decision Choice and Analysis](https://www.hse.ru/en/DeCAn/). There I conducted multiple projects to evaluate polarisation in political bodies, such as parliaments in a data-driven way using Machine Learning techniques.
+
+<h3>Skills</h3>
 
 <ul class="skill-list">
-	<li><b>Methodologies:</b> Supervised, Semi-supervised and Unsupervised Learning, Time-Series Analysis,
-LSTMs</li>
-	<li><b>Causal ML:</b> Bayesian Networks, Counterfactual Analysis</li>
-	<li><b>Explainable ML:</b> GLMs, SHAP, PDP</li>
+	<li><b>Methodologies:</b> Supervised, Semi-supervised and Unsupervised Learning, Time-Series Analysis</li>
+	<li><b>Causality:</b> Bayesian Networks, Counterfactual Analysis</li>
+	<li><b>Explainability:</b> GLMs, SHAP, PDP</li>
 	<li>Python, R, Dask</li>
 	<li>SciPy stack, XGBoost, LighGBM, Keras</li>
 	<li>Matplotlib, Seaborn, Plotly, Dash, R Shiny</li>
