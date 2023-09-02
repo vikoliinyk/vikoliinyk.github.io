@@ -51,6 +51,6 @@ To maintain these standards, we should consistently review the model's decisions
 - [Blog to kick off](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
 - Moritz Hardt's [talks and course](https://fairmlclass.github.io/)
 - Fairness for ML developers by Google: [article](https://developers.google.com/machine-learning/fairness-overview/)
-- [Algorithmic decision making and the cost of fairness](https://arxiv.org/abs/1701.08230) by Sa, Corbett-Davies et al.
+- [Algorithmic decision making and the cost of fairness](https://arxiv.org/abs/1701.08230) by Sam Corbett-Davies et al.
 - Seminal [Equality of Opportunity in Supervised Learning](https://arxiv.org/abs/1610.02413) by Hardt et al. NeurIPS 2016
 - [On Fairness and Calibration](https://arxiv.org/abs/1709.02012) by Pleiss et al. NeurIPS 2017
