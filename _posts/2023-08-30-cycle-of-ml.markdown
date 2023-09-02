@@ -26,7 +26,7 @@ Algorithmic decision making carries the risk of discrimination. Given the relian
 * Their outcomes do not go unchecked, especially where risk of discrimination is present.
 
 ---
-### 1. ML cycle --- how ML predictions change the world
+### ML cycle --- how ML predictions change the world
 
 ![Imgur](https://i.imgur.com/RGSKyyg.png)
 <figcaption class="caption">Cycle of ML models</figcaption>
@@ -38,7 +38,7 @@ Thus, it's paramount that our models don't amplify these prejudices, especially 
 The reliability of evidence-based decision-making hinges heavily on the quality of the evidence itself. Just because machine learning thrives on data doesn't guarantee its decisions will be accurate, consistent, or just.
 
 ---
-### 2. What can we do about it?
+### What can we do about it?
 
 So, how can we ensure decisions are made with integrity and for the right motives?
 
@@ -47,7 +47,7 @@ The answer lies in rigorous data standards: ample examples to reveal nuanced pat
 To maintain these standards, we should consistently review the model's decisions, ensuring fairness metrics are met—similar to how we monitor the model's overall performance over time.
 
 ---
-### 3. What to read next
+### What to read next
 - [Blog to kick off](https://towardsdatascience.com/a-tutorial-on-fairness-in-machine-learning-3ff8ba1040cb)
 - Moritz Hardt's [talks and course](https://fairmlclass.github.io/)
 - Fairness for ML developers by Google: [article](https://developers.google.com/machine-learning/fairness-overview/)

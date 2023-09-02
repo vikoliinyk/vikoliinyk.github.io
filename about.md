@@ -17,8 +17,6 @@ Before joining QuantumBlack, I interned at [Tinyclues](https://www.tinyclues.com
 <h3>Educational background</h3>
 My background is in Applied Mathematics and Computer Science. I graduated from [Higher School of Economics](https://cs.hse.ru/en/) and Univeristé Paris-Est under [Bézout Excellence track](https://labex-bezout.fr/masters-scholarships/) (first class honours, with distinction).
 
-While at Higher School of Economics, I've been working with [Prof. Fuad Aleskerov](https://www.hse.ru/en/staff/faleskerov) on problems of mathematical decision making as a Research Assistant at his [International Centre of Decision Choice and Analysis](https://www.hse.ru/en/DeCAn/). There I conducted multiple projects to evaluate polarisation in political bodies, such as parliaments in a data-driven way using Machine Learning techniques.
-
 <h3>Skills</h3>
 
 <ul class="skill-list">

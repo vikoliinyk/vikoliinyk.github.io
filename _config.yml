@@ -3,7 +3,7 @@ title: Viktoriia Oliinyk
 bio: Data Science. Building Responsible AI
 
 # twitter summary info
-description: A blog about responsible AI
+description: My personal blog
 
 # if it's an external image, update below for true
 # better with square images
@@ -21,7 +21,6 @@ resume-external: true
 resume-url: https://drive.google.com/file/d/1jIpxE6wbpbj68jioxdmkCfKY-_HNPpPy/view?usp=sharing
 
 url: https://vikoliinyk.github.io
-# your url: https://vikoliinyk.github.io
 
 permalink: /:title/
 
@@ -49,7 +48,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
@@ -76,7 +75,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: [blog, projects]
 
 # show author block at the end of a post ?
 show-author: true
