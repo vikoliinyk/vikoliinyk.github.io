@@ -15,7 +15,7 @@ Before joining QuantumBlack, I interned at [Tinyclues](https://www.tinyclues.com
 <h3>Educational background</h3>
 My background is in Applied Mathematics and Computer Science. I graduated from [Higher School of Economics](https://cs.hse.ru/en/) and Univeristé Paris-Est under [Bézout Excellence track](https://labex-bezout.fr/masters-scholarships/) (first class honours, with distinction).
 
-While at Higher School of Economics, I worked with [Prof. Fuad Aleskerov](https://www.hse.ru/en/staff/faleskerov) on mathematical modelling of political bodies such as Verkhovna Rada of Ukraine as a Research Assistant at the [International Centre ofDecision Choice and Analysis](https://www.hse.ru/en/DeCAn/).
+While at Higher School of Economics, I worked with [Prof. Fuad Aleskerov](https://www.hse.ru/en/staff/faleskerov) on mathematical modelling of political bodies such as Verkhovna Rada of Ukraine as a Research Assistant at the [International Centre of Decision Choice and Analysis](https://www.hse.ru/en/DeCAn/).
 
 <h3>Skills</h3>
 
@@ -31,7 +31,8 @@ While at Higher School of Economics, I worked with [Prof. Fuad Aleskerov](https:
 <h3>Interests</h3>
 <ul>
 	<li>I run an NGO <a href="www.doobeegood.org">Doobeegood</a> organising educational summer camps for children from disadvantaged backgrounds. In the last two years, we hosted summer camps for displaced Ukrainian children and kids in a remote Roma community in Romania</li>
-	<li>I'm an avid reader, and a theatre, movie and music enthusiast</li>
+	<li>I'm an avid reader and a music enthusiast</li>
+	<li>In my spare time, I love hiking, cycling, and practicing yoga</li>
 </ul>
 
 <!-- <h2>Selected projects</h2>
